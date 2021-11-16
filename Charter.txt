@@ -1,0 +1,32 @@
+Group 3
+
+David Krisna
+
+Availability for meeting:
+  Mon: 2 PM - above
+  Tue: 2 PM - above
+  Wed: 2 PM - above
+  Thu: 2 PM - above
+  Fri: 2 PM - above
+
+Response time to communication expetations:
+  1-2 days
+
+Definition of done:
+  All of the group member agreed with what we have. 
+  Made sure that everybody have a comment about the code that each of us are doing.
+  Made sure to make changes (pull req).
+  
+Scrum meeting format:
+ Keep the files up to date.
+ 
+Procedure for adopting policies:
+ 
+prcedure for handling a member who is not meeting expectations:
+ - Made sure to have a separate meeting to make sure everything is up to date/discuss some problem that 
+   might have encountered.
+ - Try to shift the workload towards members evenly.
+ - Made sure that the other member knows what to do for each task.
+ 
+Signatures:
+  David Krisna
