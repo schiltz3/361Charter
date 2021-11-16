@@ -1,6 +1,53 @@
 Group 3
 
+Availability for meeting expectations:
+John Schiltz:
+Mon: 	11-12, 2pm - ?
+Tue: 	4pm - ?
+Wed: 	3pm - ?
+Thu: 	4pm - ?
+Friday 	3pm - ?
+
+
+Response time to communication expectations:
+John Schiltz:
+1-2 business days?
+
+Lisa Isaeva: 1-2 business days
+
 Communication expectations when group member is late/missing a meeting:
   If a member has prior knowledge of a missed meeting or tardiness of a day or more, that 
   member shall send a message to the group chat. 
- 
+
+Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it into Github" is not done.)
+John Schiltz:
+Checked into the repo. Requires 2 separate reviewers for merge with master
+
+Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+John Schiltz:
+Updated your task as soon as it is updatable / before meetings
+Bi-weekly meeting 30min-45min. anything over 45 minutes usually gets unproductive. 
+Meetings should go over each person, checking on what they've done since the last meeting if they are stuck on anything if there is anything they need from us to move forward.
+
+Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+if you adopt such a policy during the initial meeting, put it here
+John Schiltz:
+Propose at meeting. Vote with majority? IDK
+CI with auto-formatting, 2 required reviewers for check-in. Updated documentation when you finish a module/class/method
+
+
+Procedure for handling a member who is not meeting expectations
+must include at least 3 actions before involving the instructor
+John Schiltz:
+Schedule a meeting to go over any roadblocks they are running into. 
+Try to set clear directives on what needs to be done.
+At the next scrum meeting, mby try to move around tasks to fit what the member is capable of 
+After that, it is their job to get things done.
+
+
+Signatures: each member must sign their name by typing their name at the bottom of the document.
+John Schiltz
+Lisa Isaeva
+
+
+
