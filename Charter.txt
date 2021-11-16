@@ -14,7 +14,7 @@ Response time to communication expetations:
 
 Definition of done:
   All of the group member agreed with what we have. 
-  Made sure that everybody have a comment about the code that each of us are doing.
+  Made sure that at least 2 person have a comment about the code.
   Made sure to make changes (pull req).
   
 Scrum meeting format:
