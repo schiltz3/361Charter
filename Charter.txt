@@ -31,11 +31,19 @@ Monday and Wednesday 4pm-8pm
 Tuesday and Thursday 5pm-6pm
 Friday 5pm-9pm
 
+Isaac Lawson:
+  Mon: 6:15 PM -
+  Tue: 5 PM -
+  Wed: 6:15 PM -
+  Thu: 5 PM
+  Fri-Sun: Free
+
 Response time to communication expectations:
 John Schiltz: 1-2 business days
 Lisa Isaeva: 1-2 business days
 David Krisna: 1-2 days
 LL: max 24 hours (email or discord) though preferably sooner
+Isaac Lawson: 1-2 days
 
 Communication expectations when group member is late/missing a meeting:
   If a member has prior knowledge of a missed meeting or tardiness of a day or more, that 
@@ -54,6 +62,8 @@ you should make a pull request of your changes. That way we are able to see what
 and decide together if the task is done
 LL: 
 accomplishes task, tested/checked, refactored and submitted to github (if code) 
+Isaac Lawson:
+Task is complete when all group members come to a general agreement that it is done, may require levels of compromise
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 John Schiltz:
@@ -75,6 +85,8 @@ meeting minutes - make a shared document (Docs, Word, etc) in which to put the m
 Update taskboard as we go (I actually have a Google Jamboard set up that I thought we could use for this - or not, whatever works)
 Jamboard link https://jamboard.google.com/d/1XlCyv7fE5Bye8d7yDhoXDwzSedEDcZOMjh2wSthYeFw/edit?usp=sharing
 
+Isaac Lawson: I think 2-3 times a week seems reasonable given that is standard to the typical amount of times you would meet for a class each week.
+Perhaps an hour or two per meeting depending on what we are working on?
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
@@ -89,6 +101,8 @@ LL:
 propose to group, put it to a vote (needs at least 4 out of 6 to pass)
 if accepted, add onto bottom of charter so that we have a running record of the group's policies
 
+Isaac Lawson: Overall document that tracks our desired policies from the get go (outline code style, check-insteps, and documentation)
+  -Second document of proposed policies/styles, etc. If agreed upon by a majority of group members, add them to the official list
 
 Procedure for handling a member who is not meeting expectations
 must include at least 3 actions before involving the instructor
@@ -115,22 +129,13 @@ LL:
 -- If necessary, at this point, the group can start reassigning their parts (especially those that others need to get done in order to progress) --
 3. Email member, with everyone in the group CC'ed, reiterating what they're doing (or not doing) that doesn't meet expectations [both as a reminder and as documentation]
 
-Isaac John Lawson:
-1. Nights normally work best for me, M/W I finish class at 6:15PM, T/TH I finish at 5:00PM, free Friday-Sunday any time
-2. 30 minutes to an hour at in worst possible case. 
-3. Task is complete when all group members come to a general agreement that it is done, may require levels of compromise
-4. I think 2-3 times a week seems reasonable given that is standard to the typical amount of times you would meet for a class
-each week. Perhaps an hour or two per meeting depending on what we are working on? 
-5. Overall document that tracks our desired policies from the get go (outline code style, check-insteps, and documentation)
-  5a. Second document of proposed policies/styles, etc. If agreed upon by a majority of group members, add them to the official list
-6. Assuming we have 3 actions before involving the instructor, we can adopt a sort of "3-strikes" policy
+Isaac: Assuming we have 3 actions before involving the instructor, we can adopt a sort of "3-strikes" policy
   1. The first time it happens (assuming with valid excuse) we as a group (the person who did not meet expectations obviously included) can make up
   the slack. It isn't the greatest solution, but we all fall short of expectations at least once in a while, so a single pass doesn't seem ridiculous to me.
   We are a team, so we can help eachother out once in a while.
   2. The second time, we can have a group sit-down where we each explain to the person who hasn't met expectations how this is negatively affecting our work
   flow. Often, the pressure of letting down your group mates is a huge motivator.
   3. The third time, we can talk to the scrum master and ask them to have a one on one meeting with the individual
-7. Isaac Lawson
 
 Signatures: each member must sign their name by typing their name at the bottom of the document.
 John Schiltz
@@ -138,4 +143,4 @@ Lisa Isaeva
 David Krisna
 TouKoua Xiong
 Lily Levrault
-Isaac John Lawson
+Isaac Lawson
