@@ -22,6 +22,7 @@ Scrum meeting format/frequency and distribution of documentation tasks (meeting 
 John Schiltz:
 Updated your task as soon as it is updatable / before meetings
 Bi-weekly meeting 30min-45min. anything over 45 minutes usually gets unproductive. 
+Meetings should go over each person, checking on what they've done since the last meeting if they are stuck on anything if there is anything they need from us to move forward.
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
