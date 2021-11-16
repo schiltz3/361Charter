@@ -1,0 +1,42 @@
+Group 3
+
+
+Availability for meeting expectations:
+John Schiltz:
+Mon: 	11-12, 2pm - ?
+Tue: 	4pm - ?
+Wed: 	3pm - ?
+Thu: 	4pm - ?
+Friday 	3pm - ?
+
+
+Response time to communication expectations:
+John Schiltz:
+1-2 business days?
+
+Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+John Schiltz:
+Checked into repo. Requires 2 seperate reviewers for merge with master
+
+Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+John Schiltz:
+Updated your task as soon as it is updatable / before meetings
+
+Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+if you adopt such a policy during the initial meeting, put it here
+John Schiltz:
+Propose at meeting. Vote with majority? IDK
+CI with auto-formatting, 2 required reviewers for check in. Updated documentation when you finish a module/class/method
+
+
+Procedure for handling a member who is not meeting expectations
+must include at least 3 actions before involving the instructor
+John Schiltz:
+Schedule a meeting to go over any roadblocks they are running into. 
+Try to set clear directives on what needs to be done.
+At the next scrum meeting mby try to move around tasks to fit what the memeber is capable of 
+After that it is their own job to get things done.
+
+
+Signatures: each member must sign their name by typing their name at the bottom of the document.
+John Schiltz
