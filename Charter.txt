@@ -14,6 +14,14 @@ Availability for meeting:
   Thu: 2 PM - above
   Fri: 2 PM - above
 
+TouKoua Xiong:
+  Avaliablity of meetings:
+  For discord calls:
+  M-F 6pm-9pm
+  If you do need me for anything outside of those hours, send me a message. I tend to respond quickly. At the latest, it should be at the end of the day.
+
+Lisa Isaeva:
+  Discord: work days 11am-5pm
 
 Response time to communication expectations:
 John Schiltz: 1-2 business days
@@ -30,6 +38,11 @@ David Krisna:
   All of the group member agreed with what we have. 
   Made sure that at least 2 person have a comment about the code.
   Made sure to make changes (pull req).
+  
+TouKoua Xiong:
+Definition of done:
+you should make a pull request of your changes. That way we are able to see what you have done and effectively track your progress on your tasks 
+and decide together if the task is done
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 John Schiltz:
@@ -40,11 +53,22 @@ John Schiltz:
 David Krisna:
   Keep the files up to date.
 
+TouKoua Xiong:
+Scrum Meeting Format:
+I think meetings should generally be about an hour long. Most meetings I've had don't really meet that mark, so I think that's a good time period
+Members should go over what they did and then what's troubling them or preventing them from working. From there we can redistribute tasks if need be.
+
+
+
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
 John Schiltz:
   Propose at meeting. Vote with majority? IDK
   CI with auto-formatting, 2 required reviewers for check-in. Updated documentation when you finish a module/class/method
+TouKoua Xiong:
+Adopting policies:
+Not really sure about this yet. I think at the very least we need to discuss it and how it would benefit us during the development process.
+
 
 
 Procedure for handling a member who is not meeting expectations
@@ -61,8 +85,13 @@ David Krisna:
  - Try to shift the workload towards members evenly.
  - Made sure that the other member knows what to do for each task.
 
+TouKoua Xiong:
+If member is not meeting expectations:
+We need to contact them first and see what's up. If there is no response after 2 days, we need to schedule a meeting with the rest of the group to
+redistirbute tasks and decide how to "motivate" the member.
 
 Signatures: each member must sign their name by typing their name at the bottom of the document.
 John Schiltz
 Lisa Isaeva
 David Krisna
+TouKoua Xiong
