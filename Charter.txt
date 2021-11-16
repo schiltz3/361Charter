@@ -1,4 +1,4 @@
-<<Group 3 Charter>>
+GROUP 3 CHARTER
 
 Availability for meeting expectations:
 John Schiltz:
@@ -115,6 +115,22 @@ LL:
 -- If necessary, at this point, the group can start reassigning their parts (especially those that others need to get done in order to progress) --
 3. Email member, with everyone in the group CC'ed, reiterating what they're doing (or not doing) that doesn't meet expectations [both as a reminder and as documentation]
 
+Isaac John Lawson:
+1. Nights normally work best for me, M/W I finish class at 6:15PM, T/TH I finish at 5:00PM, free Friday-Sunday any time
+2. 30 minutes to an hour at in worst possible case. 
+3. Task is complete when all group members come to a general agreement that it is done, may require levels of compromise
+4. I think 2-3 times a week seems reasonable given that is standard to the typical amount of times you would meet for a class
+each week. Perhaps an hour or two per meeting depending on what we are working on? 
+5. Overall document that tracks our desired policies from the get go (outline code style, check-insteps, and documentation)
+  5a. Second document of proposed policies/styles, etc. If agreed upon by a majority of group members, add them to the official list
+6. Assuming we have 3 actions before involving the instructor, we can adopt a sort of "3-strikes" policy
+  1. The first time it happens (assuming with valid excuse) we as a group (the person who did not meet expectations obviously included) can make up
+  the slack. It isn't the greatest solution, but we all fall short of expectations at least once in a while, so a single pass doesn't seem ridiculous to me.
+  We are a team, so we can help eachother out once in a while.
+  2. The second time, we can have a group sit-down where we each explain to the person who hasn't met expectations how this is negatively affecting our work
+  flow. Often, the pressure of letting down your group mates is a huge motivator.
+  3. The third time, we can talk to the scrum master and ask them to have a one on one meeting with the individual
+7. Isaac Lawson
 
 Signatures: each member must sign their name by typing their name at the bottom of the document.
 John Schiltz
@@ -122,3 +138,4 @@ Lisa Isaeva
 David Krisna
 TouKoua Xiong
 Lily Levrault
+Isaac John Lawson
