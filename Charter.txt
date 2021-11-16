@@ -1,39 +1,124 @@
-<Group 3>
+<<Group 3 Charter>>
 
 Availability for meeting expectations:
+John Schiltz:
+Mon: 	11-12, 2pm - ?
+Tue: 	4pm - ?
+Wed: 	3pm - ?
+Thu: 	4pm - ?
+Friday 	3pm - ?
+
+David Krisna:
+Availability for meeting:
+  Mon: 2 PM - above
+  Tue: 2 PM - above
+  Wed: 2 PM - above
+  Thu: 2 PM - above
+  Fri: 2 PM - above
+
+TouKoua Xiong:
+  Avaliablity of meetings:
+  For discord calls:
+  M-F 6pm-9pm
+  If you do need me for anything outside of those hours, send me a message. I tend to respond quickly. At the latest, it should be at the end of the day.
+
+Lisa Isaeva:
+  Discord: work days 11am-5pm
+  
 LL (typical weekly availability): 
 Saturday and Sunday 8am-8pm 
 Monday and Wednesday 4pm-8pm
 Tuesday and Thursday 5pm-6pm
 Friday 5pm-9pm
 
-Response time to communication expectations
-LL: 
-max response time 24 hours (email or discord) though preferably sooner
+Response time to communication expectations:
+John Schiltz: 1-2 business days
+Lisa Isaeva: 1-2 business days
+David Krisna: 1-2 days
+LL: max 24 hours (email or discord) though preferably sooner
 
-Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+Communication expectations when group member is late/missing a meeting:
+  If a member has prior knowledge of a missed meeting or tardiness of a day or more, that 
+  member shall send a message to the group chat. 
+
+Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it into Github" is not done.)
+John Schiltz: Checked into the repo. Requires 2 separate reviewers for merge with master
+David Krisna:
+  All of the group member agreed with what we have. 
+  Made sure that at least 2 person have a comment about the code.
+  Made sure to make changes (pull req).
+  
+TouKoua Xiong:
+Definition of done:
+you should make a pull request of your changes. That way we are able to see what you have done and effectively track your progress on your tasks 
+and decide together if the task is done
 LL: 
 accomplishes task, tested/checked, refactored and submitted to github (if code) 
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+John Schiltz:
+  Updated your task as soon as it is updatable / before meetings
+  Bi-weekly meeting 30min-45min. anything over 45 minutes usually gets unproductive. 
+  Meetings should go over each person, checking on what they've done since the last meeting if they are stuck on anything if there is anything they need from us to move forward.
+
+David Krisna:
+  Keep the files up to date.
+
+TouKoua Xiong:
+Scrum Meeting Format:
+I think meetings should generally be about an hour long. Most meetings I've had don't really meet that mark, so I think that's a good time period
+Members should go over what they did and then what's troubling them or preventing them from working. From there we can redistribute tasks if need be.
+
 LL: 
 format - Discord?   frequency - three times a week? (the minimum he gave us)
 meeting minutes - make a shared document (Docs, Word, etc) in which to put the minutes, type them in as we go along
 Update taskboard as we go (I actually have a Google Jamboard set up that I thought we could use for this - or not, whatever works)
 Jamboard link https://jamboard.google.com/d/1XlCyv7fE5Bye8d7yDhoXDwzSedEDcZOMjh2wSthYeFw/edit?usp=sharing
 
+
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
+John Schiltz:
+  Propose at meeting. Vote with majority? IDK
+  CI with auto-formatting, 2 required reviewers for check-in. Updated documentation when you finish a module/class/method
+TouKoua Xiong:
+Adopting policies:
+Not really sure about this yet. I think at the very least we need to discuss it and how it would benefit us during the development process.
+
 LL: 
 propose to group, put it to a vote (needs at least 4 out of 6 to pass)
 if accepted, add onto bottom of charter so that we have a running record of the group's policies
 
+
 Procedure for handling a member who is not meeting expectations
 must include at least 3 actions before involving the instructor
+John Schiltz:
+  Schedule a meeting to go over any roadblocks they are running into. 
+  Try to set clear directives on what needs to be done.
+  At the next scrum meeting, mby try to move around tasks to fit what the member is capable of 
+  After that, it is their job to get things done.
+  
+David Krisna:
+ - Made sure to have a separate meeting to make sure everything is up to date/discuss some problem that 
+   might have encountered.
+ - Try to shift the workload towards members evenly.
+ - Made sure that the other member knows what to do for each task.
+
+TouKoua Xiong:
+If member is not meeting expectations:
+We need to contact them first and see what's up. If there is no response after 2 days, we need to schedule a meeting with the rest of the group to
+redistirbute tasks and decide how to "motivate" the member.
+
 LL:
 1. Message/ping them with reminders encouraging them to do what they should be doing
 2. Discuss their behavior with them in the next meeting and come up with strategies on how to get them back on track
 -- If necessary, at this point, the group can start reassigning their parts (especially those that others need to get done in order to progress) --
 3. Email member, with everyone in the group CC'ed, reiterating what they're doing (or not doing) that doesn't meet expectations [both as a reminder and as documentation]
 
+
 Signatures: each member must sign their name by typing their name at the bottom of the document.
+John Schiltz
+Lisa Isaeva
+David Krisna
+TouKoua Xiong
+Lily Levrault
